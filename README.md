@@ -9,7 +9,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-- :school: I am a `Junior` at Faculty of System & Informatics.
+- :school: I am a `student` at University of System & Informatics.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Systems`.
 - :nerd_face: Always `learning new things`.
